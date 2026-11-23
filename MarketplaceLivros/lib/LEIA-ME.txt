@@ -1,0 +1,4 @@
+Coloque aqui o driver JDBC do SQL Server com este nome exato:
+    mssql-jdbc-13.6.0.jre11.jar
+(o mesmo arquivo que o projeto ja usa: C:\Program Files\sqljdbc_13.6\ptb\jars\)
+O dist/MarketplaceLivros.jar procura o driver nesta pasta.
